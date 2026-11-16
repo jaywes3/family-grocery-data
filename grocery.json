@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-16T20:36:12.943Z",
+  "updatedAt": "2026-11-16T20:40:45.917Z",
   "sections": [
     {
       "id": "groceries",
@@ -39,5 +39,14 @@
       "updatedAt": "2026-11-16T20:36:12.600Z"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": "fd325b63-c0e9-4a25-90d8-34184ca3e24f",
+      "text": "Pico",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-16T20:40:45.584Z",
+      "updatedAt": "2026-11-16T20:40:45.584Z"
+    }
+  ]
 }
