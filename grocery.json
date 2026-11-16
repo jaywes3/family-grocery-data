@@ -1,6 +1,36 @@
 {
   "app": "Hearthside Shared Grocery List",
-  "formatVersion": 1,
-  "updatedAt": "2026-11-08T00:00:00.000Z",
+  "formatVersion": 2,
+  "updatedAt": "2026-11-16T20:17:27.053Z",
+  "sections": [
+    {
+      "id": "groceries",
+      "name": "Groceries",
+      "icon": "🛒",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "icon": "🎯",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "costco",
+      "name": "Costco",
+      "icon": "🛒",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "lakehouse",
+      "name": "Lakehouse",
+      "icon": "🏡",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+    }
+  ],
   "items": []
 }
