@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-16T20:41:11.450Z",
+  "updatedAt": "2026-11-16T20:41:35.211Z",
   "sections": [
     {
       "id": "groceries",
@@ -71,6 +71,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:41:11.120Z",
       "updatedAt": "2026-11-16T20:41:11.120Z"
+    },
+    {
+      "id": "4100310f-7651-4025-82f6-4203d83afd43",
+      "text": "Fire & smoke society brand chica licka bam bam seasoning",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-16T20:41:34.844Z",
+      "updatedAt": "2026-11-16T20:41:34.844Z"
     }
   ]
 }
