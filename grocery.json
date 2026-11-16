@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-16T20:17:27.053Z",
+  "updatedAt": "2026-11-16T20:36:12.943Z",
   "sections": [
     {
       "id": "groceries",
@@ -30,6 +30,13 @@
       "icon": "🏡",
       "createdAt": "2020-01-01T00:00:00.000Z",
       "updatedAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "section-lowe-s-d61e74c6",
+      "name": "Lowe's",
+      "icon": "🧺",
+      "createdAt": "2026-11-16T20:36:12.600Z",
+      "updatedAt": "2026-11-16T20:36:12.600Z"
     }
   ],
   "items": []
