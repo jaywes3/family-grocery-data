@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-17T19:54:08.633Z",
+  "updatedAt": "2026-11-17T19:54:10.255Z",
   "sections": [
     {
       "id": "groceries",
@@ -52,10 +52,11 @@
     {
       "id": "28b53068-4a90-49c3-bc41-bb62f5107e0d",
       "text": "Cilantro",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:40:53.598Z",
-      "updatedAt": "2026-11-16T20:40:53.598Z"
+      "updatedAt": "2026-11-17T19:54:08.917Z",
+      "deletedAt": "2026-11-17T19:54:08.917Z"
     },
     {
       "id": "2f132d2a-b470-476f-9961-c439f9af80a9",
