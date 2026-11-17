@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-17T23:31:50.681Z",
+  "updatedAt": "2026-11-17T23:31:52.535Z",
   "sections": [
     {
       "id": "groceries",
@@ -69,18 +69,18 @@
     {
       "id": "74053fca-6b5f-4b3c-8e00-292f19209681",
       "text": "Turkey hats",
-      "done": true,
+      "done": false,
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:41:11.120Z",
-      "updatedAt": "2026-11-17T23:31:42.610Z"
+      "updatedAt": "2026-11-17T23:31:51.113Z"
     },
     {
       "id": "4100310f-7651-4025-82f6-4203d83afd43",
       "text": "Fire & smoke society brand chica licka bam bam seasoning",
-      "done": true,
+      "done": false,
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:41:34.844Z",
-      "updatedAt": "2026-11-17T23:31:43.306Z"
+      "updatedAt": "2026-11-17T23:31:51.398Z"
     }
   ]
 }
