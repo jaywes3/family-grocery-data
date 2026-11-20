@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:42:58.434Z",
+  "updatedAt": "2026-11-20T23:43:09.786Z",
   "sections": [
     {
       "id": "groceries",
@@ -116,6 +116,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:42:58.083Z",
       "updatedAt": "2026-11-20T23:42:58.083Z"
+    },
+    {
+      "id": "50a4e2d8-4c1f-4d14-a7c9-92659f0488f9",
+      "text": "Whipped cream",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:43:09.445Z",
+      "updatedAt": "2026-11-20T23:43:09.445Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
