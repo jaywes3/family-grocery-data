@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:40:49.421Z",
+  "updatedAt": "2026-11-20T23:41:07.108Z",
   "sections": [
     {
       "id": "groceries",
@@ -89,6 +89,14 @@
       "sectionId": "section-lowe-s-d61e74c6",
       "createdAt": "2026-11-20T23:40:49.100Z",
       "updatedAt": "2026-11-20T23:40:49.100Z"
+    },
+    {
+      "id": "0696facc-0687-4976-ad17-72ffa1d112ad",
+      "text": "Lightbulbs",
+      "done": false,
+      "sectionId": "section-lowe-s-d61e74c6",
+      "createdAt": "2026-11-20T23:41:06.803Z",
+      "updatedAt": "2026-11-20T23:41:06.803Z"
     }
   ]
 }
