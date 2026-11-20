@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:43:24.255Z",
+  "updatedAt": "2026-11-20T23:43:32.132Z",
   "sections": [
     {
       "id": "groceries",
@@ -140,6 +140,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:23.934Z",
       "updatedAt": "2026-11-20T23:43:23.934Z"
+    },
+    {
+      "id": "5bf80a03-3b5d-4c8d-ac4c-46b604bbbc69",
+      "text": "Salami",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:43:31.815Z",
+      "updatedAt": "2026-11-20T23:43:31.815Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
