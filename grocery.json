@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:44:03.344Z",
+  "updatedAt": "2026-11-20T23:44:08.562Z",
   "sections": [
     {
       "id": "groceries",
@@ -180,6 +180,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:02.982Z",
       "updatedAt": "2026-11-20T23:44:02.982Z"
+    },
+    {
+      "id": "a24dbf57-5489-470e-bc09-f2e9a6244039",
+      "text": "Paprika",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:44:08.220Z",
+      "updatedAt": "2026-11-20T23:44:08.220Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
