@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:43:38.155Z",
+  "updatedAt": "2026-11-20T23:43:47.075Z",
   "sections": [
     {
       "id": "groceries",
@@ -156,6 +156,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:37.749Z",
       "updatedAt": "2026-11-20T23:43:37.749Z"
+    },
+    {
+      "id": "495484f6-284e-4e9e-8253-9a17e669662c",
+      "text": "2 onions",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:43:46.769Z",
+      "updatedAt": "2026-11-20T23:43:46.769Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
