@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:44:55.516Z",
+  "updatedAt": "2026-11-20T23:45:04.991Z",
   "sections": [
     {
       "id": "groceries",
@@ -228,6 +228,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:55.198Z",
       "updatedAt": "2026-11-20T23:44:55.198Z"
+    },
+    {
+      "id": "8480e456-20b1-419b-9e98-0fbb14c0a231",
+      "text": "16oz heavy cream",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:45:04.627Z",
+      "updatedAt": "2026-11-20T23:45:04.627Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
