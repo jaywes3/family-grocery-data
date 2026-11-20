@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:42:00.876Z",
+  "updatedAt": "2026-11-20T23:42:19.717Z",
   "sections": [
     {
       "id": "groceries",
@@ -61,10 +61,11 @@
     {
       "id": "2f132d2a-b470-476f-9961-c439f9af80a9",
       "text": "Green beans",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:41:03.693Z",
-      "updatedAt": "2026-11-17T23:31:50.188Z"
+      "updatedAt": "2026-11-20T23:42:19.105Z",
+      "deletedAt": "2026-11-20T23:42:19.105Z"
     },
     {
       "id": "74053fca-6b5f-4b3c-8e00-292f19209681",
