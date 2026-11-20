@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:43:16.678Z",
+  "updatedAt": "2026-11-20T23:43:24.255Z",
   "sections": [
     {
       "id": "groceries",
@@ -132,6 +132,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:16.286Z",
       "updatedAt": "2026-11-20T23:43:16.286Z"
+    },
+    {
+      "id": "1d59c54c-cb68-41d2-ba2b-7ad6ef949fd0",
+      "text": "Chips",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:43:23.934Z",
+      "updatedAt": "2026-11-20T23:43:23.934Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
