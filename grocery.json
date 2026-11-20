@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:44:36.224Z",
+  "updatedAt": "2026-11-20T23:44:47.315Z",
   "sections": [
     {
       "id": "groceries",
@@ -212,6 +212,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:35.844Z",
       "updatedAt": "2026-11-20T23:44:35.844Z"
+    },
+    {
+      "id": "5e4ff851-9d03-408f-93b4-5257128a71bc",
+      "text": "8oz sharp cheddar",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:44:46.848Z",
+      "updatedAt": "2026-11-20T23:44:46.848Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
