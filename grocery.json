@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:45:18.306Z",
+  "updatedAt": "2026-11-20T23:45:30.488Z",
   "sections": [
     {
       "id": "groceries",
@@ -244,6 +244,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:45:17.968Z",
       "updatedAt": "2026-11-20T23:45:17.968Z"
+    },
+    {
+      "id": "e6169641-5981-4bb6-853a-bfbd4f32e1cd",
+      "text": "1lb cavatappi noodles",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:45:30.103Z",
+      "updatedAt": "2026-11-20T23:45:30.103Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
