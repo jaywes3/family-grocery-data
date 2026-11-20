@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:45:30.488Z",
+  "updatedAt": "2026-11-20T23:45:39.711Z",
   "sections": [
     {
       "id": "groceries",
@@ -252,6 +252,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:45:30.103Z",
       "updatedAt": "2026-11-20T23:45:30.103Z"
+    },
+    {
+      "id": "ee49c3d6-71fd-473d-bd7a-1b87e1ca83f7",
+      "text": "3lbs chicken",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:45:39.280Z",
+      "updatedAt": "2026-11-20T23:45:39.280Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
