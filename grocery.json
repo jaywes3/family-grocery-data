@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:43:32.132Z",
+  "updatedAt": "2026-11-20T23:43:38.155Z",
   "sections": [
     {
       "id": "groceries",
@@ -148,6 +148,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:31.815Z",
       "updatedAt": "2026-11-20T23:43:31.815Z"
+    },
+    {
+      "id": "20387de7-8295-440a-b4b8-2b9d1a8b7082",
+      "text": "Sliced turkey",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-20T23:43:37.749Z",
+      "updatedAt": "2026-11-20T23:43:37.749Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
