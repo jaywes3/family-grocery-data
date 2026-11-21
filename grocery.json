@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:17.138Z",
+  "updatedAt": "2026-11-21T20:03:18.614Z",
   "sections": [
     {
       "id": "groceries",
@@ -183,10 +183,10 @@
     {
       "id": "323d5a4c-66c9-4663-adc5-490000cbda27",
       "text": "Salted butter",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:16.223Z",
-      "updatedAt": "2026-11-20T23:44:16.223Z"
+      "updatedAt": "2026-11-21T20:03:17.430Z"
     },
     {
       "id": "9bdd4471-f824-4bf4-935c-9bf85904dafb",
