@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:18.614Z",
+  "updatedAt": "2026-11-21T20:03:20.051Z",
   "sections": [
     {
       "id": "groceries",
@@ -199,26 +199,26 @@
     {
       "id": "390404ba-32fd-436e-8ae8-4bd1eb5d30dd",
       "text": "4oz Mozzerella",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:35.844Z",
-      "updatedAt": "2026-11-20T23:44:35.844Z"
+      "updatedAt": "2026-11-21T20:03:18.478Z"
     },
     {
       "id": "5e4ff851-9d03-408f-93b4-5257128a71bc",
       "text": "8oz sharp cheddar",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:46.848Z",
-      "updatedAt": "2026-11-20T23:44:46.848Z"
+      "updatedAt": "2026-11-21T20:03:19.014Z"
     },
     {
       "id": "691062d8-f782-43b8-9215-677792cd6abe",
       "text": "8oz gouda",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:55.198Z",
-      "updatedAt": "2026-11-20T23:44:55.198Z"
+      "updatedAt": "2026-11-21T20:03:19.428Z"
     },
     {
       "id": "8480e456-20b1-419b-9e98-0fbb14c0a231",
