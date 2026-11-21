@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:24.235Z",
+  "updatedAt": "2026-11-21T20:03:25.663Z",
   "sections": [
     {
       "id": "groceries",
@@ -231,18 +231,18 @@
     {
       "id": "9f1eb91b-3a05-4616-8253-cc6e2a8927c9",
       "text": "12oz can evaporated milk",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:45:17.968Z",
-      "updatedAt": "2026-11-20T23:45:17.968Z"
+      "updatedAt": "2026-11-21T20:03:24.576Z"
     },
     {
       "id": "e6169641-5981-4bb6-853a-bfbd4f32e1cd",
       "text": "1lb cavatappi noodles",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:45:30.103Z",
-      "updatedAt": "2026-11-20T23:45:30.103Z"
+      "updatedAt": "2026-11-21T20:03:25.076Z"
     },
     {
       "id": "ee49c3d6-71fd-473d-bd7a-1b87e1ca83f7",
