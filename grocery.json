@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:27.217Z",
+  "updatedAt": "2026-11-21T20:03:28.709Z",
   "sections": [
     {
       "id": "groceries",
@@ -255,10 +255,10 @@
     {
       "id": "06d13262-b47f-4afe-802b-cecd028f8c8c",
       "text": "Sweet baby Ray's Honey BBQ (2)",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:45:53.491Z",
-      "updatedAt": "2026-11-20T23:45:53.491Z"
+      "updatedAt": "2026-11-21T20:03:26.909Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
