@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:11.255Z",
+  "updatedAt": "2026-11-21T20:03:15.472Z",
   "sections": [
     {
       "id": "groceries",
@@ -167,10 +167,10 @@
     {
       "id": "dac3a15a-8678-4ab1-9d5c-4595cb7874c3",
       "text": "Sour cream",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:44:02.982Z",
-      "updatedAt": "2026-11-20T23:44:02.982Z"
+      "updatedAt": "2026-11-21T20:03:15.130Z"
     },
     {
       "id": "a24dbf57-5489-470e-bc09-f2e9a6244039",
