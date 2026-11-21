@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:09.866Z",
+  "updatedAt": "2026-11-21T20:03:11.255Z",
   "sections": [
     {
       "id": "groceries",
@@ -103,18 +103,18 @@
     {
       "id": "0e409265-f839-484c-9676-3e9ddde469fe",
       "text": "Vanilla ice cream",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:42:58.083Z",
-      "updatedAt": "2026-11-20T23:42:58.083Z"
+      "updatedAt": "2026-11-21T20:03:10.028Z"
     },
     {
       "id": "50a4e2d8-4c1f-4d14-a7c9-92659f0488f9",
       "text": "Whipped cream",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:09.445Z",
-      "updatedAt": "2026-11-20T23:43:09.445Z"
+      "updatedAt": "2026-11-21T20:03:10.496Z"
     },
     {
       "id": "cd969703-3120-4dcd-9bec-f236851d18cf",
