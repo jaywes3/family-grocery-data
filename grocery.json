@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:08.492Z",
+  "updatedAt": "2026-11-21T20:03:09.866Z",
   "sections": [
     {
       "id": "groceries",
@@ -95,10 +95,10 @@
     {
       "id": "7a31b8f3-20c5-466f-9963-e209237c995d",
       "text": "Dog wipes",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:42:44.160Z",
-      "updatedAt": "2026-11-20T23:42:44.160Z"
+      "updatedAt": "2026-11-21T20:03:09.379Z"
     },
     {
       "id": "0e409265-f839-484c-9676-3e9ddde469fe",
