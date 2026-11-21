@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-21T20:03:30.301Z",
+  "updatedAt": "2026-11-21T20:03:48.289Z",
   "sections": [
     {
       "id": "groceries",
@@ -279,10 +279,10 @@
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
       "text": "CO2 detectors",
-      "done": false,
+      "done": true,
       "sectionId": "section-lowe-s-d61e74c6",
       "createdAt": "2026-11-20T23:40:49.100Z",
-      "updatedAt": "2026-11-20T23:40:49.100Z"
+      "updatedAt": "2026-11-21T20:03:47.872Z"
     },
     {
       "id": "0696facc-0687-4976-ad17-72ffa1d112ad",
