@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-20T23:45:53.795Z",
+  "updatedAt": "2026-11-21T20:03:08.492Z",
   "sections": [
     {
       "id": "groceries",
@@ -70,10 +70,10 @@
     {
       "id": "74053fca-6b5f-4b3c-8e00-292f19209681",
       "text": "Turkey hats",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-16T20:41:11.120Z",
-      "updatedAt": "2026-11-17T23:31:51.113Z"
+      "updatedAt": "2026-11-21T20:03:08.015Z"
     },
     {
       "id": "4100310f-7651-4025-82f6-4203d83afd43",
