@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T21:44:09.948Z",
+  "updatedAt": "2026-11-22T21:44:38.893Z",
   "sections": [
     {
       "id": "groceries",
@@ -288,10 +288,11 @@
     {
       "id": "6c6d278e-a32e-4ce7-8f45-9bb90f637cea",
       "text": "Pantomime’s",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-22T21:44:09.650Z",
-      "updatedAt": "2026-11-22T21:44:09.650Z"
+      "updatedAt": "2026-11-22T21:44:38.566Z",
+      "deletedAt": "2026-11-22T21:44:38.566Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
