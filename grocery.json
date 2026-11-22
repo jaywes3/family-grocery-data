@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T17:42:08.547Z",
+  "updatedAt": "2026-11-22T17:42:10.458Z",
   "sections": [
     {
       "id": "groceries",
@@ -305,10 +305,10 @@
     {
       "id": "8b7cf3b7-f730-4687-a485-5bcb39a2d590",
       "text": "Mirafast kids",
-      "done": false,
+      "done": true,
       "sectionId": "target",
       "createdAt": "2026-11-22T15:48:07.552Z",
-      "updatedAt": "2026-11-22T15:48:07.552Z"
+      "updatedAt": "2026-11-22T17:42:08.354Z"
     },
     {
       "id": "3f1a4092-aa34-453e-98e1-2097f1b57592",
