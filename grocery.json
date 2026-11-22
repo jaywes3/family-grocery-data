@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T21:44:46.109Z",
+  "updatedAt": "2026-11-22T22:53:32.578Z",
   "sections": [
     {
       "id": "groceries",
@@ -301,6 +301,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-22T21:44:45.751Z",
       "updatedAt": "2026-11-22T21:44:45.751Z"
+    },
+    {
+      "id": "c409f2a1-1d34-4671-9dd7-a24f1a707f48",
+      "text": "Chicken nuggets",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-22T22:53:32.280Z",
+      "updatedAt": "2026-11-22T22:53:32.280Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
