@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T15:48:14.770Z",
+  "updatedAt": "2026-11-22T15:48:26.140Z",
   "sections": [
     {
       "id": "groceries",
@@ -317,6 +317,14 @@
       "sectionId": "target",
       "createdAt": "2026-11-22T15:48:14.332Z",
       "updatedAt": "2026-11-22T15:48:14.332Z"
+    },
+    {
+      "id": "83414802-45a4-4172-b2fc-dba3c7acb6cb",
+      "text": "Pantiliners",
+      "done": false,
+      "sectionId": "target",
+      "createdAt": "2026-11-22T15:48:25.779Z",
+      "updatedAt": "2026-11-22T15:48:25.779Z"
     }
   ]
 }
