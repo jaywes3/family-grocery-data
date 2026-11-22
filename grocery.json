@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T17:35:58.200Z",
+  "updatedAt": "2026-11-22T17:39:05.301Z",
   "sections": [
     {
       "id": "groceries",
@@ -297,10 +297,10 @@
     {
       "id": "cec1d597-eb13-4c14-9235-67dcc5f4b1c5",
       "text": "Collagen chews",
-      "done": false,
+      "done": true,
       "sectionId": "target",
       "createdAt": "2026-11-20T23:41:14.229Z",
-      "updatedAt": "2026-11-20T23:41:14.229Z"
+      "updatedAt": "2026-11-22T17:39:04.792Z"
     },
     {
       "id": "8b7cf3b7-f730-4687-a485-5bcb39a2d590",
