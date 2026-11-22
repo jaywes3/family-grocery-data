@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-22T17:42:12.519Z",
+  "updatedAt": "2026-11-22T18:09:34.687Z",
   "sections": [
     {
       "id": "groceries",
@@ -88,10 +88,10 @@
     {
       "id": "fe27bd9e-738d-4b1c-b591-5044c710eaa6",
       "text": "Fiber gummies",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:42:25.511Z",
-      "updatedAt": "2026-11-20T23:42:25.511Z"
+      "updatedAt": "2026-11-22T18:09:34.368Z"
     },
     {
       "id": "7a31b8f3-20c5-466f-9963-e209237c995d",
