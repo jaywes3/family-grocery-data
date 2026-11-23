@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-23T22:44:55.342Z",
+  "updatedAt": "2026-11-23T22:57:19.272Z",
   "sections": [
     {
       "id": "groceries",
@@ -352,6 +352,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-23T22:44:55.033Z",
       "updatedAt": "2026-11-23T22:44:55.033Z"
+    },
+    {
+      "id": "628fb21d-396a-4110-8538-2924fe43abc1",
+      "text": "Tates choc chip cookies",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-23T22:57:18.980Z",
+      "updatedAt": "2026-11-23T22:57:18.980Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
