@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-23T15:29:48.561Z",
+  "updatedAt": "2026-11-23T15:29:55.415Z",
   "sections": [
     {
       "id": "groceries",
@@ -373,15 +373,6 @@
       "deletedAt": "2026-11-22T17:42:10.499Z"
     },
     {
-      "id": "83414802-45a4-4172-b2fc-dba3c7acb6cb",
-      "text": "Pantiliners",
-      "done": true,
-      "sectionId": "target",
-      "createdAt": "2026-11-22T15:48:25.779Z",
-      "updatedAt": "2026-11-22T21:44:03.031Z",
-      "deletedAt": "2026-11-22T21:44:03.031Z"
-    },
-    {
       "id": "31d3018e-eba3-4ac3-ac31-2434320aa6de",
       "text": "Veggie straws",
       "done": true,
@@ -389,6 +380,14 @@
       "createdAt": "2026-11-22T17:17:05.126Z",
       "updatedAt": "2026-11-22T17:42:10.499Z",
       "deletedAt": "2026-11-22T17:42:10.499Z"
+    },
+    {
+      "id": "e2a49442-ca12-4126-90f1-10b61aee8423",
+      "text": "Pantiliners",
+      "done": false,
+      "sectionId": "target",
+      "createdAt": "2026-11-23T15:29:55.097Z",
+      "updatedAt": "2026-11-23T15:29:55.097Z"
     }
   ]
 }
