@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-23T18:33:15.606Z",
+  "updatedAt": "2026-11-23T22:44:47.660Z",
   "sections": [
     {
       "id": "groceries",
@@ -336,6 +336,14 @@
       "createdAt": "2026-11-23T13:50:53.146Z",
       "updatedAt": "2026-11-23T15:34:34.790Z",
       "deletedAt": "2026-11-23T15:34:34.790Z"
+    },
+    {
+      "id": "d5fd9fbc-a12d-4b69-ae9f-4c62f35d1272",
+      "text": "Clementines",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-23T22:44:47.261Z",
+      "updatedAt": "2026-11-23T22:44:47.261Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
