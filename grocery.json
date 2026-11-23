@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-23T13:50:53.464Z",
+  "updatedAt": "2026-11-23T15:26:40.945Z",
   "sections": [
     {
       "id": "groceries",
@@ -164,10 +164,10 @@
     {
       "id": "d1855693-a835-4ab1-b7d5-41dea9289ba0",
       "text": "Sandwich bread",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-20T23:43:53.382Z",
-      "updatedAt": "2026-11-20T23:43:53.382Z"
+      "updatedAt": "2026-11-23T15:26:40.613Z"
     },
     {
       "id": "dac3a15a-8678-4ab1-9d5c-4595cb7874c3",
