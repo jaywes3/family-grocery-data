@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-23T22:44:47.660Z",
+  "updatedAt": "2026-11-23T22:44:55.342Z",
   "sections": [
     {
       "id": "groceries",
@@ -344,6 +344,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-23T22:44:47.261Z",
       "updatedAt": "2026-11-23T22:44:47.261Z"
+    },
+    {
+      "id": "c705f2dc-9e28-475f-aee0-f2391acdb38d",
+      "text": "Hamburger buns",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-23T22:44:55.033Z",
+      "updatedAt": "2026-11-23T22:44:55.033Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
