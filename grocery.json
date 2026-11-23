@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
-  "formatVersion": 2,
-  "updatedAt": "2026-11-23T15:34:35.125Z",
+  "formatVersion": 3,
+  "updatedAt": "2026-11-23T18:33:15.606Z",
   "sections": [
     {
       "id": "groceries",
