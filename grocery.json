@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-23T15:30:20.911Z",
+  "updatedAt": "2026-11-23T15:31:00.645Z",
   "sections": [
     {
       "id": "groceries",
@@ -280,10 +280,10 @@
     {
       "id": "8b3cc11a-9bba-4c1d-8001-6832a731c5a6",
       "text": "Strawberries",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-22T21:41:10.784Z",
-      "updatedAt": "2026-11-22T21:41:10.784Z"
+      "updatedAt": "2026-11-23T15:31:00.334Z"
     },
     {
       "id": "6c6d278e-a32e-4ce7-8f45-9bb90f637cea",
