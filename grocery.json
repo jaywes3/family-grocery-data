@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-23T13:50:43.698Z",
+  "updatedAt": "2026-11-23T13:50:53.464Z",
   "sections": [
     {
       "id": "groceries",
@@ -317,6 +317,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-23T13:50:43.401Z",
       "updatedAt": "2026-11-23T13:50:43.401Z"
+    },
+    {
+      "id": "20a634ae-cbc3-45c2-b87c-3dcb745aa90a",
+      "text": "Heavy whipping cream",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-23T13:50:53.146Z",
+      "updatedAt": "2026-11-23T13:50:53.146Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
