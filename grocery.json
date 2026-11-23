@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 2,
-  "updatedAt": "2026-11-23T15:26:40.945Z",
+  "updatedAt": "2026-11-23T15:27:15.773Z",
   "sections": [
     {
       "id": "groceries",
@@ -313,10 +313,10 @@
     {
       "id": "42de285f-c099-4026-8234-79d4a58452c3",
       "text": "Garlic & herb laughing cow cheese",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-23T13:50:43.401Z",
-      "updatedAt": "2026-11-23T13:50:43.401Z"
+      "updatedAt": "2026-11-23T15:27:15.259Z"
     },
     {
       "id": "20a634ae-cbc3-45c2-b87c-3dcb745aa90a",
