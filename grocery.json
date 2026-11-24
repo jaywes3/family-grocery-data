@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-24T16:31:01.743Z",
+  "updatedAt": "2026-11-24T16:31:03.675Z",
   "sections": [
     {
       "id": "groceries",
@@ -343,7 +343,8 @@
       "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-23T22:44:47.261Z",
-      "updatedAt": "2026-11-24T16:30:59.603Z"
+      "updatedAt": "2026-11-24T16:31:01.187Z",
+      "deletedAt": "2026-11-24T16:31:01.187Z"
     },
     {
       "id": "c705f2dc-9e28-475f-aee0-f2391acdb38d",
@@ -351,7 +352,8 @@
       "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-23T22:44:55.033Z",
-      "updatedAt": "2026-11-24T16:30:59.104Z"
+      "updatedAt": "2026-11-24T16:31:01.187Z",
+      "deletedAt": "2026-11-24T16:31:01.187Z"
     },
     {
       "id": "628fb21d-396a-4110-8538-2924fe43abc1",
@@ -359,7 +361,8 @@
       "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-23T22:57:18.980Z",
-      "updatedAt": "2026-11-24T16:21:44.515Z"
+      "updatedAt": "2026-11-24T16:31:01.187Z",
+      "deletedAt": "2026-11-24T16:31:01.187Z"
     },
     {
       "id": "e511a80b-f083-4441-80ec-d54a8bab48bd",
@@ -367,7 +370,8 @@
       "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-24T01:20:21.799Z",
-      "updatedAt": "2026-11-24T16:23:45.506Z"
+      "updatedAt": "2026-11-24T16:31:01.187Z",
+      "deletedAt": "2026-11-24T16:31:01.187Z"
     },
     {
       "id": "7584332d-adf3-4691-b212-67bce2d6842d",
