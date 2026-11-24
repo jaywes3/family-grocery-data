@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-24T16:21:44.935Z",
+  "updatedAt": "2026-11-24T16:23:46.081Z",
   "sections": [
     {
       "id": "groceries",
@@ -364,10 +364,10 @@
     {
       "id": "e511a80b-f083-4441-80ec-d54a8bab48bd",
       "text": "Cranberry juice",
-      "done": false,
+      "done": true,
       "sectionId": "groceries",
       "createdAt": "2026-11-24T01:20:21.799Z",
-      "updatedAt": "2026-11-24T01:20:21.799Z"
+      "updatedAt": "2026-11-24T16:23:45.506Z"
     },
     {
       "id": "7584332d-adf3-4691-b212-67bce2d6842d",
