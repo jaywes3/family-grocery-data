@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-24T01:20:22.099Z",
+  "updatedAt": "2026-11-24T01:20:31.022Z",
   "sections": [
     {
       "id": "groceries",
@@ -368,6 +368,14 @@
       "sectionId": "groceries",
       "createdAt": "2026-11-24T01:20:21.799Z",
       "updatedAt": "2026-11-24T01:20:21.799Z"
+    },
+    {
+      "id": "7584332d-adf3-4691-b212-67bce2d6842d",
+      "text": "Pumpkin liqueur",
+      "done": false,
+      "sectionId": "groceries",
+      "createdAt": "2026-11-24T01:20:30.723Z",
+      "updatedAt": "2026-11-24T01:20:30.723Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
