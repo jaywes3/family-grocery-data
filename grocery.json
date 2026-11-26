@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-26T17:05:48.780Z",
+  "updatedAt": "2026-11-26T17:08:14.415Z",
   "sections": [
     {
       "id": "groceries",
@@ -397,6 +397,14 @@
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:05:48.278Z",
       "updatedAt": "2026-11-26T17:05:48.278Z"
+    },
+    {
+      "id": "87e1618d-5321-40b3-961c-fb6faf2a96fa",
+      "text": "Washing machine cleaner",
+      "done": false,
+      "sectionId": "lakehouse",
+      "createdAt": "2026-11-26T17:08:14.081Z",
+      "updatedAt": "2026-11-26T17:08:14.081Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
