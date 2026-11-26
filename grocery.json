@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-26T02:51:21.683Z",
+  "updatedAt": "2026-11-26T17:05:48.780Z",
   "sections": [
     {
       "id": "groceries",
@@ -389,6 +389,14 @@
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T02:51:21.239Z",
       "updatedAt": "2026-11-26T02:51:21.239Z"
+    },
+    {
+      "id": "0fafb161-68ce-40fb-a0a2-a9a44b6104f7",
+      "text": "Watch battery",
+      "done": false,
+      "sectionId": "lakehouse",
+      "createdAt": "2026-11-26T17:05:48.278Z",
+      "updatedAt": "2026-11-26T17:05:48.278Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
