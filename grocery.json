@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T15:39:08.172Z",
+  "updatedAt": "2026-11-27T16:10:15.675Z",
   "sections": [
     {
       "id": "groceries",
@@ -410,10 +410,10 @@
     {
       "id": "6257eb9a-fd57-47e2-b1b3-8c77168e5cb1",
       "text": "Broccoli",
-      "done": false,
+      "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:40:06.359Z",
-      "updatedAt": "2026-11-26T17:40:06.359Z"
+      "updatedAt": "2026-11-27T16:10:15.287Z"
     },
     {
       "id": "3f0cc468-4086-427c-a846-099cc8329db1",
