@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T16:10:15.675Z",
+  "updatedAt": "2026-11-27T16:10:17.718Z",
   "sections": [
     {
       "id": "groceries",
@@ -397,7 +397,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:05:48.278Z",
-      "updatedAt": "2026-11-27T15:39:07.649Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "87e1618d-5321-40b3-961c-fb6faf2a96fa",
@@ -405,7 +406,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:08:14.081Z",
-      "updatedAt": "2026-11-27T15:13:36.001Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "6257eb9a-fd57-47e2-b1b3-8c77168e5cb1",
@@ -413,7 +415,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:40:06.359Z",
-      "updatedAt": "2026-11-27T16:10:15.287Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "3f0cc468-4086-427c-a846-099cc8329db1",
@@ -421,7 +424,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T01:44:03.977Z",
-      "updatedAt": "2026-11-27T15:39:06.532Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "43ad8eb6-75f4-4ce2-b2a3-67e114b7e552",
@@ -437,7 +441,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T14:17:12.597Z",
-      "updatedAt": "2026-11-27T15:39:03.621Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "c6f6d1ed-da52-4d69-9257-9a9d8329d6c8",
@@ -445,7 +450,8 @@
       "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T14:17:30.877Z",
-      "updatedAt": "2026-11-27T15:39:02.971Z"
+      "updatedAt": "2026-11-27T16:10:17.326Z",
+      "deletedAt": "2026-11-27T16:10:17.326Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
