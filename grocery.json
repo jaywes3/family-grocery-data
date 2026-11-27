@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T14:17:31.238Z",
+  "updatedAt": "2026-11-27T15:06:09.682Z",
   "sections": [
     {
       "id": "groceries",
@@ -385,10 +385,11 @@
     {
       "id": "5f22374d-a821-4e6c-9cfa-e57060a74d15",
       "text": "Insulin needles",
-      "done": false,
+      "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T02:51:21.239Z",
-      "updatedAt": "2026-11-26T02:51:21.239Z"
+      "updatedAt": "2026-11-27T15:06:09.336Z",
+      "deletedAt": "2026-11-27T15:06:09.336Z"
     },
     {
       "id": "0fafb161-68ce-40fb-a0a2-a9a44b6104f7",
