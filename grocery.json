@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T13:36:59.938Z",
+  "updatedAt": "2026-11-27T13:50:33.919Z",
   "sections": [
     {
       "id": "groceries",
@@ -424,11 +424,11 @@
     },
     {
       "id": "43ad8eb6-75f4-4ce2-b2a3-67e114b7e552",
-      "text": "Battery",
+      "text": "Car battery",
       "done": false,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T13:36:59.607Z",
-      "updatedAt": "2026-11-27T13:36:59.607Z"
+      "updatedAt": "2026-11-27T13:50:33.548Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
