@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-26T17:40:06.744Z",
+  "updatedAt": "2026-11-27T01:44:04.365Z",
   "sections": [
     {
       "id": "groceries",
@@ -413,6 +413,14 @@
       "sectionId": "lakehouse",
       "createdAt": "2026-11-26T17:40:06.359Z",
       "updatedAt": "2026-11-26T17:40:06.359Z"
+    },
+    {
+      "id": "3f0cc468-4086-427c-a846-099cc8329db1",
+      "text": "Plain vodka",
+      "done": false,
+      "sectionId": "lakehouse",
+      "createdAt": "2026-11-27T01:44:03.977Z",
+      "updatedAt": "2026-11-27T01:44:03.977Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
