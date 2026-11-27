@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T14:17:12.905Z",
+  "updatedAt": "2026-11-27T14:17:31.238Z",
   "sections": [
     {
       "id": "groceries",
@@ -437,6 +437,14 @@
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T14:17:12.597Z",
       "updatedAt": "2026-11-27T14:17:12.597Z"
+    },
+    {
+      "id": "c6f6d1ed-da52-4d69-9257-9a9d8329d6c8",
+      "text": "Tire pressure gauge",
+      "done": false,
+      "sectionId": "lakehouse",
+      "createdAt": "2026-11-27T14:17:30.877Z",
+      "updatedAt": "2026-11-27T14:17:30.877Z"
     },
     {
       "id": "70f3b1ab-97f8-4c56-bed8-23e018f772ce",
