@@ -1,7 +1,7 @@
 {
   "app": "Hearthside Shared Grocery List",
   "formatVersion": 3,
-  "updatedAt": "2026-11-27T15:39:03.803Z",
+  "updatedAt": "2026-11-27T15:39:06.011Z",
   "sections": [
     {
       "id": "groceries",
@@ -434,10 +434,10 @@
     {
       "id": "b4a111f7-e0c9-40ec-b417-b9024a02e7a7",
       "text": "Dimmer switch",
-      "done": false,
+      "done": true,
       "sectionId": "lakehouse",
       "createdAt": "2026-11-27T14:17:12.597Z",
-      "updatedAt": "2026-11-27T14:17:12.597Z"
+      "updatedAt": "2026-11-27T15:39:03.621Z"
     },
     {
       "id": "c6f6d1ed-da52-4d69-9257-9a9d8329d6c8",
